@@ -8,8 +8,6 @@ some things to know about me:
 
 🧠 i'm currently learning **Ruby** and **React Native** </br>
 
-📧 you can reach me at thomasrlbartlett@gmail.com </br>
-
 ---
 
 some other things to know:
