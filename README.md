@@ -2,10 +2,10 @@
 
 some things to know about me:
 
-> i'm recent NSCC IT Programming graduate looking for opportunities to learn + specialize in a field within the software/web development world
-> i have an affinity for the c languages (C, C++, C#), JavaScript and React
-> i'm currently learning **Ruby** and **React Native**
-> you can reach me at thomasrlbartlett@gmail.com
+i'm recent NSCC IT Programming graduate looking for opportunities to learn + specialize in a field within the software/web development world
+i have an affinity for the c languages (C, C++, C#), JavaScript and React
+i'm currently learning **Ruby** and **React Native**
+you can reach me at thomasrlbartlett@gmail.com
 
 ---
 
