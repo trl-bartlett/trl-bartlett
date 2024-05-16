@@ -12,7 +12,7 @@ some things to know about me:
 
 some other things to know:
 
-🎮 hobbies: reading, writing, drawing, animation, film, video games + game development, cooking (and many others i cant remember</br>
+🎮 hobbies: reading, writing, drawing, animation, film, video games + game development, cooking (and many others i cant remember...)</br>
 
 📖 im currently reading: **Grokking Algorithms by Aditya Bhargava** and **Dune by Frank Herbert** </br>
 
