@@ -6,7 +6,7 @@ some things to know about me:
 
 🖥️ i have an affinity for the C languages (**C, C++, C#**), **JavaScript** and **React** </br>
 
-🧠 i'm currently learning **Ruby** and **React Native** </br>
+🧠 i'm currently learning **python** </br>
 
 ---
 
