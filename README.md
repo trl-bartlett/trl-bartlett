@@ -12,8 +12,8 @@ some things to know about me:
 
 some other things to know:
 
-🎮 hobbies: reading, writing, drawing, animation, film, video games + game development, cooking (and many others i cant remember...)</br>
+🎮 hobbies: reading, writing, drawing, animation, film, video games + game development, cooking, trivia + quizzes + puzzles (and many others i cant remember...)</br>
 
-📖 im currently reading: **Grokking Algorithms by Aditya Bhargava** and **Dune by Frank Herbert** </br>
+📖 im currently reading: **Dead Simple Python by Jason C MacDonald** and **Blood Meridian by Cormac McCarthy** </br>
 
   
