@@ -4,7 +4,7 @@ some things to know about me:
 
 🏫 recent NSCC IT Programming graduate looking for opportunities to learn + specialize in a field within the software/web development world </br>
 
-🖥️ i have an affinity for the C languages (**C, C++, C#**), **JavaScript** and **React** </br>
+🖥️ i have an affinity for the C languages (**C, C++, C#**), **JavaScript**, and **React** </br>
 
 🧠 i'm currently learning **Python** </br>
 
