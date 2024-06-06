@@ -14,6 +14,6 @@ some other things to know:
 
 (+) hobbies: reading, writing, drawing, animation, film, video games + game development, cooking, trivia + quizzes + puzzles (and many others i cant remember...)</br>
 
-(+) im currently reading: **dead simple python by jason c macDonald** and **blood meridian by cormac mcCarthy** </br>
+(+) im currently reading: **dead simple python by jason c macdonald** and **blood meridian by cormac mccarthy** </br>
 
   
