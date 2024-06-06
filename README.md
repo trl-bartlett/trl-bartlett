@@ -1,4 +1,4 @@
-**hi. im thoams bartlett**
+# hi. im thomas bartlett 
 
 some things to know about me:
 
